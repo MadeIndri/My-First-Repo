@@ -4,4 +4,4 @@ NPM   : 2106704295
 
 Kelas : A
 
-Hobi : Tidur
+Hobi : Nari
